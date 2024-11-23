@@ -1,2 +1,2 @@
-# renpy stuff here!
-messing around with things on renpy! no big projects, usually just shitpost games and figuring how to use renpy and just how to code in general.
+# first ren.py project!
+this project is more of a shitpost than an actual game. i was learning how to use ren.py
